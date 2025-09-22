@@ -20,22 +20,22 @@
 ---
 
 ## 📌 Pinned Projects  
-- [🔐 Issue Tracker App (Rails + React + JWT)](https://github.com/<your-username>/issue-tracker)  
-- [📅 Daily Time Manager (Node.js + React)](https://github.com/<your-username>/time-manager)  
-- [🎓 Class V English Grammar Test Generator](https://github.com/<your-username>/grammar-test)  
+- [🔐 Issue Tracker App (Rails + React + JWT)](https://github.com/solai24/issue-tracker)  
+- [📅 Daily Time Manager (Node.js + React)](https://github.com/solai24/time-manager)  
+- [🎓 Class V English Grammar Test Generator](https://github.com/solai24/grammar-test)  
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solai24&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solai24&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/<your-linkedin>)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/solaiman-shaikh-12a3272a2)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=fff)](https://<your-portfolio>)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:<your-email>)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:solai.uit@gmail.com)  
 
 ---
 ✨ *"Code. Contribute. Collaborate."*
